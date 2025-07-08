@@ -34,7 +34,7 @@ It provides key insights into pizza sales performance using real-world business 
 
 ## 📸 Preview
 
-*(Add an image named `dashboard_preview.png` showing your Excel dashboard UI)*  
+
 ![Dashboard Preview](![image](https://github.com/user-attachments/assets/1b922318-915a-4daa-9861-d70bc56a26da)
 )
 
