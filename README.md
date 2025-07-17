@@ -35,7 +35,7 @@ It provides key insights into pizza sales performance using real-world business 
 ## 📸 Preview
 
 
-![Dashboard Preview](![Screenshot 2025-07-08 112642](https://github.com/user-attachments/assets/ae3c4639-4d48-4f3f-9e30-bbdb68f1a557)
+![Screenshot 2025-07-08 112642](https://github.com/user-attachments/assets/ae3c4639-4d48-4f3f-9e30-bbdb68f1a557)
 
 
 ---
